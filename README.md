@@ -1,8 +1,8 @@
-## Research Papers Implementations
+# Research Papers Implementations
 
 This repository contains my implementations of various machine learning and deep learning research papers, built from scratch. The goal is to replicate the core concepts and algorithms presented in these papers, providing clear, well-commented, and easy-to-understand code.
 
-# Research Papers Implemented
+## Research Papers Implemented
 
 This repository includes implementations of the following research papers:
 
