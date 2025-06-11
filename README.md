@@ -8,5 +8,6 @@ This repository includes implementations of the following research papers:
 
 - **BitNet**: a **1-bit Transformer** architecture for large language models, which aims to scale efficiently in terms of both memory and computation as it employs *low-precision binary weights and quantized activations*.
 - **LoRA & Adapter**: a Low-Rank Adaptation technique for fine-tuning large language models, using *low-rank matrices* and *adapter layers* to reduce parameters while maintaining performance. It includes scaling factors to control updates.
+- **GeLU**: a widely used *activation function* in the realm of modern LLMs that mimics ReLU but does not sacrifice gradients in the lower regions.
   
 Each directory corresponds to a specific paper and contains the necessary code to reproduce the results or explore the model.
